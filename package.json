@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^1.2.0",
-    "homepage": "https://maxnawa31.github.io/museum_gallery/",
+    "homepage": "https://maxnawa31.github.io/museum-gallery",
     "package.json": "^2.0.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
